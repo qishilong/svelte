@@ -17,6 +17,6 @@ export function entries() {
 
 export const prerender = true
 
-export const csr = false;
+// export const csr = false;
 
-export const ssr = false
+// export const ssr = false
